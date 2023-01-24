@@ -7,4 +7,3 @@
 
 # Added realistic damage via handling.meta file.
 
-# There's chance of being send flying through windscreen if you crash too hard
